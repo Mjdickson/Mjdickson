@@ -10,7 +10,6 @@
 
 <h2>Certifications</h2>
 
-- [Google IT Support Professional]
 - [Google Cybersecurity Professional]
 - [COMPTIA Security+]
 - [Careerist Sales Engineer]
