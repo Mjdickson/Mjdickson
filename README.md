@@ -5,7 +5,7 @@
 
   - [Active Directory Home lab](https://github.com/Mjdickson/)
 
-  - [Cyber Google Portfolio](https://github.com/Mjdickson/)
+  - [Cyber Google Portfolio](https://github.com/Mjdickson](https://github.com/Mjdickson/Cyber-Google-Portfolio)/)
 
 
 <h2>Certifications</h2>
