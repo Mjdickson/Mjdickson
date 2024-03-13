@@ -14,6 +14,7 @@
 - [COMPTIA Security+]
 - [Careerist Sales Engineer]
 - [AWS Cloud Practitioner]
+- [Redhat Certified System Admin] 
 
 <h2> 🤳 Connect with me:</h2>
 
