@@ -12,10 +12,10 @@
 
 - [Google Cybersecurity Professional]
 - [COMPTIA Security+]
+- [AWS Cloud Practitioner]
+- [Redhat Certified System Admin]
 - [Careerist Sales Engineer]
 - [Course Careers Tech Sales]
-- [AWS Cloud Practitioner]
-- [Redhat Certified System Admin] 
 
 <h2> 🤳 Connect with me:</h2>
 
