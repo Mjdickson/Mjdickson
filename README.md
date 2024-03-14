@@ -13,6 +13,7 @@
 - [Google Cybersecurity Professional]
 - [COMPTIA Security+]
 - [Careerist Sales Engineer]
+- [Course Careers Tech Sales]
 - [AWS Cloud Practitioner]
 - [Redhat Certified System Admin] 
 
